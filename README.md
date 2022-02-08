@@ -1,6 +1,6 @@
 # meal_app
 
-A new Flutter project.
+Flutter application contains dummy recipes.
 
 ## Getting Started
 
